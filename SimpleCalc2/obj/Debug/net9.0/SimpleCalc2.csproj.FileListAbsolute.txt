@@ -1,0 +1,14 @@
+C:\Users\57039661837\Desktop\backend\Simplecalc2\bin\Debug\net9.0\SimpleCalc2.exe
+C:\Users\57039661837\Desktop\backend\Simplecalc2\bin\Debug\net9.0\SimpleCalc2.deps.json
+C:\Users\57039661837\Desktop\backend\Simplecalc2\bin\Debug\net9.0\SimpleCalc2.runtimeconfig.json
+C:\Users\57039661837\Desktop\backend\Simplecalc2\bin\Debug\net9.0\SimpleCalc2.dll
+C:\Users\57039661837\Desktop\backend\Simplecalc2\bin\Debug\net9.0\SimpleCalc2.pdb
+C:\Users\57039661837\Desktop\backend\Simplecalc2\obj\Debug\net9.0\SimpleCalc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57039661837\Desktop\backend\Simplecalc2\obj\Debug\net9.0\SimpleCalc2.AssemblyInfoInputs.cache
+C:\Users\57039661837\Desktop\backend\Simplecalc2\obj\Debug\net9.0\SimpleCalc2.AssemblyInfo.cs
+C:\Users\57039661837\Desktop\backend\Simplecalc2\obj\Debug\net9.0\SimpleCalc2.csproj.CoreCompileInputs.cache
+C:\Users\57039661837\Desktop\backend\Simplecalc2\obj\Debug\net9.0\SimpleCalc2.dll
+C:\Users\57039661837\Desktop\backend\Simplecalc2\obj\Debug\net9.0\refint\SimpleCalc2.dll
+C:\Users\57039661837\Desktop\backend\Simplecalc2\obj\Debug\net9.0\SimpleCalc2.pdb
+C:\Users\57039661837\Desktop\backend\Simplecalc2\obj\Debug\net9.0\SimpleCalc2.genruntimeconfig.cache
+C:\Users\57039661837\Desktop\backend\Simplecalc2\obj\Debug\net9.0\ref\SimpleCalc2.dll

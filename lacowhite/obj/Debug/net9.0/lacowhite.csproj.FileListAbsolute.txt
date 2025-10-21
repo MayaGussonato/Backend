@@ -1,0 +1,14 @@
+C:\Users\57039661837\Desktop\backend\lacowhite\obj\Debug\net9.0\lacowhite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57039661837\Desktop\backend\lacowhite\obj\Debug\net9.0\lacowhite.AssemblyInfoInputs.cache
+C:\Users\57039661837\Desktop\backend\lacowhite\obj\Debug\net9.0\lacowhite.AssemblyInfo.cs
+C:\Users\57039661837\Desktop\backend\lacowhite\obj\Debug\net9.0\lacowhite.csproj.CoreCompileInputs.cache
+C:\Users\57039661837\Desktop\backend\lacowhite\bin\Debug\net9.0\lacowhite.exe
+C:\Users\57039661837\Desktop\backend\lacowhite\bin\Debug\net9.0\lacowhite.deps.json
+C:\Users\57039661837\Desktop\backend\lacowhite\bin\Debug\net9.0\lacowhite.runtimeconfig.json
+C:\Users\57039661837\Desktop\backend\lacowhite\bin\Debug\net9.0\lacowhite.dll
+C:\Users\57039661837\Desktop\backend\lacowhite\bin\Debug\net9.0\lacowhite.pdb
+C:\Users\57039661837\Desktop\backend\lacowhite\obj\Debug\net9.0\lacowhite.dll
+C:\Users\57039661837\Desktop\backend\lacowhite\obj\Debug\net9.0\refint\lacowhite.dll
+C:\Users\57039661837\Desktop\backend\lacowhite\obj\Debug\net9.0\lacowhite.pdb
+C:\Users\57039661837\Desktop\backend\lacowhite\obj\Debug\net9.0\lacowhite.genruntimeconfig.cache
+C:\Users\57039661837\Desktop\backend\lacowhite\obj\Debug\net9.0\ref\lacowhite.dll
