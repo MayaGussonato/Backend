@@ -1,0 +1,15 @@
+C:\Users\57039661837\Desktop\BACKEND\POO\MetodoContrutor\obj\Debug\net9.0\MetodoContrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57039661837\Desktop\BACKEND\POO\MetodoContrutor\obj\Debug\net9.0\MetodoContrutor.AssemblyInfoInputs.cache
+C:\Users\57039661837\Desktop\BACKEND\POO\MetodoContrutor\obj\Debug\net9.0\MetodoContrutor.AssemblyInfo.cs
+C:\Users\57039661837\Desktop\BACKEND\POO\MetodoContrutor\obj\Debug\net9.0\MetodoContrutor.csproj.CoreCompileInputs.cache
+C:\Users\57039661837\Desktop\BACKEND\POO\MetodoContrutor\obj\Debug\net9.0\MetodoContrutor.sourcelink.json
+C:\Users\57039661837\Desktop\BACKEND\POO\MetodoContrutor\bin\Debug\net9.0\MetodoContrutor.exe
+C:\Users\57039661837\Desktop\BACKEND\POO\MetodoContrutor\bin\Debug\net9.0\MetodoContrutor.deps.json
+C:\Users\57039661837\Desktop\BACKEND\POO\MetodoContrutor\bin\Debug\net9.0\MetodoContrutor.runtimeconfig.json
+C:\Users\57039661837\Desktop\BACKEND\POO\MetodoContrutor\bin\Debug\net9.0\MetodoContrutor.dll
+C:\Users\57039661837\Desktop\BACKEND\POO\MetodoContrutor\bin\Debug\net9.0\MetodoContrutor.pdb
+C:\Users\57039661837\Desktop\BACKEND\POO\MetodoContrutor\obj\Debug\net9.0\MetodoContrutor.dll
+C:\Users\57039661837\Desktop\BACKEND\POO\MetodoContrutor\obj\Debug\net9.0\refint\MetodoContrutor.dll
+C:\Users\57039661837\Desktop\BACKEND\POO\MetodoContrutor\obj\Debug\net9.0\MetodoContrutor.pdb
+C:\Users\57039661837\Desktop\BACKEND\POO\MetodoContrutor\obj\Debug\net9.0\MetodoContrutor.genruntimeconfig.cache
+C:\Users\57039661837\Desktop\BACKEND\POO\MetodoContrutor\obj\Debug\net9.0\ref\MetodoContrutor.dll
