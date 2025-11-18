@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\57039661837\\Desktop\\backend\\exercicio16\\exercicio16.csproj": {}
+    "C:\\Users\\57039661837\\Desktop\\BACKEND\\exercicio16\\exercicio16.csproj": {}
   },
   "projects": {
-    "C:\\Users\\57039661837\\Desktop\\backend\\exercicio16\\exercicio16.csproj": {
+    "C:\\Users\\57039661837\\Desktop\\BACKEND\\exercicio16\\exercicio16.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\57039661837\\Desktop\\backend\\exercicio16\\exercicio16.csproj",
+        "projectUniqueName": "C:\\Users\\57039661837\\Desktop\\BACKEND\\exercicio16\\exercicio16.csproj",
         "projectName": "exercicio16",
-        "projectPath": "C:\\Users\\57039661837\\Desktop\\backend\\exercicio16\\exercicio16.csproj",
+        "projectPath": "C:\\Users\\57039661837\\Desktop\\BACKEND\\exercicio16\\exercicio16.csproj",
         "packagesPath": "C:\\Users\\57039661837\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\57039661837\\Desktop\\backend\\exercicio16\\obj\\",
+        "outputPath": "C:\\Users\\57039661837\\Desktop\\BACKEND\\exercicio16\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\57039661837\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\57039661837\\Desktop\\backend\\Simplecalc2\\SimpleCalc2.csproj": {}
+    "C:\\Users\\57039661837\\Desktop\\BACKEND\\SimpleCalc2\\SimpleCalc2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\57039661837\\Desktop\\backend\\Simplecalc2\\SimpleCalc2.csproj": {
+    "C:\\Users\\57039661837\\Desktop\\BACKEND\\SimpleCalc2\\SimpleCalc2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\57039661837\\Desktop\\backend\\Simplecalc2\\SimpleCalc2.csproj",
+        "projectUniqueName": "C:\\Users\\57039661837\\Desktop\\BACKEND\\SimpleCalc2\\SimpleCalc2.csproj",
         "projectName": "SimpleCalc2",
-        "projectPath": "C:\\Users\\57039661837\\Desktop\\backend\\Simplecalc2\\SimpleCalc2.csproj",
+        "projectPath": "C:\\Users\\57039661837\\Desktop\\BACKEND\\SimpleCalc2\\SimpleCalc2.csproj",
         "packagesPath": "C:\\Users\\57039661837\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\57039661837\\Desktop\\backend\\Simplecalc2\\obj\\",
+        "outputPath": "C:\\Users\\57039661837\\Desktop\\BACKEND\\SimpleCalc2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\57039661837\\AppData\\Roaming\\NuGet\\NuGet.Config"

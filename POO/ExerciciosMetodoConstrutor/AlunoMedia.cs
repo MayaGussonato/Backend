@@ -1,50 +1,28 @@
-using System;
-
-namespace ExercicioMetodoConstrutor
+namespace ExerciciosMetodoConstrutor
 {
-    public class AlunoMedia
+    public class MediaAluno
     {
+        public string Nome;
 
-        public string nome;
-        
         public double N1, N2, N3;
 
-        // 🔹 Construtor que define as notas como zero
-        public AlunoMedia(string nome)
+        public MediaAluno(double param1, double param2, double param3)
         {
-            this.nome = nome;
-            nota1 = 0.0;
-            nota2 = 0.0;
-            nota3 = 0.0;
-
-            Console.WriteLine("Aluno (Notas Zeradas)");
-            Console.WriteLine($"Nome: {nome}");
-            Console.WriteLine($"Nota 1: {nota1}");
-            Console.WriteLine($"Nota 2: {nota2}");
-            Console.WriteLine($"Nota 3: {nota3}");
-    
+            N1 = param1; //parametro param1 representa o valor N1 
+            N2 = param2;
+            N3 = param3;
         }
 
-        // 🔹 Construtor que recebe as três notas
-        public AlunoMedia(string nome, double nota1, double nota2, double nota3)
+        public MediaAluno()
         {
-            this.nome = nome;
-            this.N1 = nota1;
-            this.N2 = nota2;
-            this.N3 = nota3;
-
-            Console.WriteLine("=== Aluno Criado ===");
-            Console.WriteLine($"Nome: {nome}");
-            Console.WriteLine($"Nota 1: {nota1}");
-            Console.WriteLine($"Nota 2: {nota2}");
-            Console.WriteLine($"Nota 3: {nota3}");
-        
+            N1 = N2 = N3 = 0; //Atribuindo valor fico as 3 propriedades de uma vez
         }
 
-        public void CalcularMedia()
+        public void Media()
         {
             double media = (N1 + N2 + N3) / 3;
-            Console.WriteLine($"Aluno: {nome} | Média: {media:F2}");
+
+            Console.WriteLine($"A média do(a) aluno(a) {Nome} foi: {Media}");
         }
     }
 }
